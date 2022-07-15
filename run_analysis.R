@@ -191,14 +191,3 @@ head(df_final_txt)
 #Read final tidy data in csv file 
 df_final_csv <- read.csv("tidy_data_human_activity.csv", header = TRUE)
 head(df_final_csv)
-
-
-#t - Time domain signals, f - Frequence domain signals
-#Mean. value
-#Std: Standard deviation
-#Accelerometer 3 axial XYZ
-#Gyroscope  3 axial XYZ
-#Jerk signal
-#Body linear acceleration 
-#Mag euclidian norm
-#XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
