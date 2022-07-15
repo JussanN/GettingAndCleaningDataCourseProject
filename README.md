@@ -14,7 +14,7 @@ Here are the data for the project:
 
 The purpose of this project is to show how to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. This is accomplished by the `run_analysis.R`script that does the following: 
 
-1. Dowload the datasets from the link above and unzip it.
+1. Download the datasets from the link above and unzip it.
 
 2. Merges the training and the test sets to create one data set.
 
